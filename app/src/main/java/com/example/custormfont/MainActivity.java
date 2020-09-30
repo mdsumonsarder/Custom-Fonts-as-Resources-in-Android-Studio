@@ -15,6 +15,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        
+        //In AndroidStudio 4.0.1 You can Directly Change The Font,
+        //No Need To Code.
+        //Thank You
 
 
     }
